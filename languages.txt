@@ -1,0 +1,5 @@
+Partner: Brooke Ritter britter2
+
+My favorite programming language is Java because I have the most experience with it. Since I have so much 
+experience with it, it conceptually just makes sense to me more than other languages. One of my other
+favorite languages is Python because of how simple it is to understand and how readable it is.
